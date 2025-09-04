@@ -144,14 +144,14 @@
     "image": "https://www.bloodstar.xyz/p/lihonghao15/Tarot/17_tarot.png",
     "name": "· 正 义 ·",
     "team": "townsfolk",
-    "ability": "【正义被处决后，当晚爪牙与恶魔陷入厄运。正义会得知自己是否陷入厄运。】每个夜晚*，🔵与你相邻的玩家当晚不会死亡。🔴与你相邻的玩家当晚不会陷入厄运。"
+    "ability": "【一旦你向书人表示怀疑自己的身份，你当天夜晚死亡。正义被处决后，当晚爪牙与恶魔陷入厄运。】每个夜晚*，🔵与你相邻的玩家当晚不会死亡。🔴与你相邻的玩家当晚不会陷入厄运。"
   },
   {
     "id": "18_tarot",
     "image": "https://www.bloodstar.xyz/p/lihonghao15/Tarot/18_tarot.png",
     "name": "· 力 量 ·",
     "team": "townsfolk",
-    "ability": "【首个夜晚你无法发动正位能力、不会死亡。】每个夜晚*，🔵选择一名玩家，若他不是镇民，他死亡。🔴你下个夜晚无法以掷骰的方式变更正逆位。"
+    "ability": "【首个夜晚你无法发动正位能力、不会死亡。】每个夜晚*，🔵选择一名玩家：若他非善良阵营，他死亡。🔴你下个夜晚无法以掷骰的方式变更正逆位。"
   },
   {
     "id": "19_tarot",
@@ -186,30 +186,31 @@
     "image": "https://www.bloodstar.xyz/p/lihonghao15/Tarot/16_tarot.png",
     "name": "· 痴 愚 星 币 ·",
     "team": "outsider",
-    "ability": "你以为你的身份是星星、月亮、太阳的其中之一，但你不是。你中毒至游戏结束。"
+    "ability": "你以为你的身份是星星、月亮、太阳的其中之一，但你不是。当场上星星、月亮、太阳的其中一个死亡后，当晚你死亡。"
   },
   {
     "id": "23_tarot",
     "image": "https://www.bloodstar.xyz/p/lihonghao15/Tarot/23_tarot.png",
     "name": "· 不 洁 圣 杯 ·",
     "team": "outsider",
-    "ability": "你出局后，每晚随机一名镇民陷入厄运。"
+    "ability": "你以为你是其他外来者，你中毒至有些结束。无论你存活与否，与你相邻最近的两名善良阵营玩家掷骰数字永远视为掷出单数。每个夜晚开始时，恶魔均可选择是否猜测谁是圣杯，若正确，邪恶阵营获胜；若失败，恶魔当晚正位。】"
   },
   {
     "id": "24_tarot",
     "image": "https://www.bloodstar.xyz/p/lihonghao15/Tarot/24_tarot.png",
-    "name": "· 弑 善 宝 剑 ·",
+    "name": "· 正 义 宝 剑 ？ ·",
     "team": "outsider",
-    "ability": "提名你的玩家若是镇民，当晚陷入厄运。你被处决时，参与投票的随机一名善良阵营玩家当晚死亡。"
+    "ability": "你以为你是正义，但你不是。每个夜晚*，你可向书人质疑自己的身份，质疑成功后，若正义未在场，你从下个夜晚开始成为镇民正义，若正义在场，你死亡。"
   },
   {
     "id": "25_tarot",
     "image": "https://www.bloodstar.xyz/p/lihonghao15/Tarot/25_tarot.png",
     "name": "· 入 魔 权 杖 ·",
     "team": "outsider",
-    "ability": "当你提名恶魔或被恶魔提名时，邪恶阵营获胜。"
+    "ability": "当你提名恶魔或被恶魔提名时，邪恶阵营获胜。（提示：死亡的玩家依旧可以被提名。）"
   }
 ]
+
 
 
 
