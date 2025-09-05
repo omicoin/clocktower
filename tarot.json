@@ -23,6 +23,7 @@
     "id": "_tarot",
     "image": "https://www.bloodstar.xyz/p/lihonghao15/Tarot/_tarot.png",
     "name": "· 真 恶 魔 · ",
+    "otherNight": 6,
     "team": "demon",
     "ability": "【本局游戏爪牙加入善良阵营，并中毒直至游戏结束。随机一名玩家成为你的化身。（你知道化身的号码，但化身并不知情。）当你死亡后，化身失去所有能力，加入恶魔阵营，成为新的恶魔，并获得你的夜晚能力。】每个夜晚*，你可主动选择自己的正逆位。🔵选择一名玩家，他陷入厄运。夜晚阶段结束时，随机一名非厄运玩家死亡。🔴所有镇民陷入厄运。"
     ,"firstNight": 3
@@ -32,6 +33,7 @@
     "id": "1_tarot",
     "image": "https://www.bloodstar.xyz/p/lihonghao15/Tarot/1_tarot.png",
     "name": "· 塔 ·",
+    "otherNight": 7,
     "team": "demon",
     "ability": "【塔在场时，一定有死神或倒吊人在场。】【塔连续两晚未被任何玩家关联后，第三个夜晚无法被关联且塔会杀死自己，以此方式塔死亡后，邪恶阵营获得胜利。】每个夜晚*，🔵当晚随机一名与你有关联的非邪恶阵营玩家死亡。🔴当晚你无法被关联。"
   },
@@ -39,6 +41,7 @@
     "id": "2_tarot",
     "image": "https://www.bloodstar.xyz/p/lihonghao15/Tarot/2_tarot.png",
     "name": "· 战 车 ·",
+    "otherNight": 8,
     "team": "demon",
     "ability": "【你的号码牌一定不是场上最大或最小的。你无视关联状态、无法关联任何玩家，且无法被任何能力关联。你因自己的能力死亡时，邪恶阵营获得胜利。】每个夜晚*，🔵号码最小的玩家死亡。🔴号码最大的玩家死亡。"
   },
@@ -46,6 +49,7 @@
     "id": "3_tarot",
     "image": "https://www.bloodstar.xyz/p/lihonghao15/Tarot/3_tarot.png",
     "name": "· 月 亮 ·",
+    "otherNight": 9,
     "team": "demon",
     "ability": "【首夜选择单数或双数号码牌，满足号码牌条件的镇民永久变更为逆位，并无视一切改变正逆位的效果。月亮在场时，厄运状态不会在白天阶段结束时移除。场上所有存活的非邪恶阵营玩家陷入厄运后，邪恶阵营胜利。月亮死亡后进入假死状态，夜晚仍可使用能力。月亮第二次死亡后，善良阵营获胜。】每个夜晚*，🔵选择一名玩家：他死亡。🔴选择一名玩家：他陷入厄运状态。"
     ,"firstNight": 2
@@ -55,6 +59,7 @@
     "id": "4_tarot",
     "image": "https://www.bloodstar.xyz/p/lihonghao15/Tarot/4_tarot.png",
     "name": "· 教 皇 ·",
+    "otherNight": 10,
     "team": "minion",
     "ability": "【场上存活的全部非邪恶阵营玩家成为你的信徒后，邪恶阵营胜利。玩家会得知自己成为教徒。】每个夜晚*，🔵选择一名玩家：他成为你的教徒。🔴选择两名玩家：他们成为你的信徒。"
   },
@@ -62,6 +67,7 @@
     "id": "5_tarot",
     "image": "https://www.bloodstar.xyz/p/lihonghao15/Tarot/5_tarot.png",
     "name": "· 皇 帝 ·",
+    "otherNight": 11,
     "team": "minion",
     "ability": "【首个夜晚，相邻你最近的左右两侧各一个镇民成为你的臣民（不会改变其阵营），他们会得知自己成为臣民。皇帝在场时，场上臣民无法发起提名。】🔵你白天被处决后，选择一名臣民：他死亡。🔴你白天被处决后，当晚所有臣民死亡。"
     ,"firstNight": 4
@@ -71,6 +77,7 @@
     "id": "6_tarot",
     "image": "https://www.bloodstar.xyz/p/lihonghao15/Tarot/6_tarot.png",
     "name": "· 女 皇 ·",
+    "otherNight": 12,
     "team": "minion",
     "ability": "【你的身份被探查时，视作外来者。】 每个夜晚*，🔵选择一名玩家，他下个白天不能与他人交流和恶魔、爪牙相关的内容，否则可能会死亡。🔴选择一名玩家，他下个白天只能与他人交流和本场游戏无关的内容，否则可能会死亡。"
   },
@@ -78,6 +85,7 @@
     "id": "7_tarot",
     "image": "https://www.bloodstar.xyz/p/lihonghao15/Tarot/7_tarot.png",
     "name": "· 节 制 ·",
+    "otherNight": 5,
     "team": "minion",
     "ability": "【开局节制与恶魔不互认。节制不会陷入厄运。】每个夜晚*，🔵/🔴从2、4、6中选择一个数字，本轮投掷出该数字的玩家陷入厄运。"
   },
@@ -85,6 +93,7 @@
     "id": "8_tarot",
     "image": "https://www.bloodstar.xyz/p/lihonghao15/Tarot/8_tarot.png",
     "name": "· 愚 者 ·",
+    "otherNight": 19,
     "team": "townsfolk",
     "ability": "【你在场时，世界一定在场。世界死亡后，你会得知谁是世界。你死亡后此能力仍生效。】每个夜晚*，🔵你随机得知两组关联。🔴你随机得知一组关联。"
   },
@@ -92,6 +101,7 @@
     "id": "22_tarot",
     "image": "https://www.bloodstar.xyz/p/lihonghao15/Tarot/22_tarot.png",
     "name": "· 世 界 ·",
+    "otherNight": 20,
     "team": "townsfolk",
     "ability": "【你在场时，愚者一定在场。你死亡后，你会得知谁是愚者。你死亡后此能力仍生效。】每个夜晚*，🔵得知包含你的所有关联。🔴得知包含你的随机一组关联。"
   },
@@ -99,6 +109,7 @@
     "id": "12_tarot",
     "image": "https://www.bloodstar.xyz/p/lihonghao15/Tarot/12_tarot.png",
     "name": "· 女 祭 司 ·",
+    "otherNight": 21,
     "team": "townsfolk",
     "ability": "每个夜晚*，🔵选择一名玩家：你得知与他有关的所有关联，以及关联箭头。🔴选择一名玩家：你将得知他当晚的正逆位。"
   },
@@ -106,6 +117,7 @@
     "id": "10_tarot",
     "image": "https://www.bloodstar.xyz/p/lihonghao15/Tarot/10_tarot.png",
     "name": "· 隐 者 ·",
+    "otherNight": 22,
     "team": "townsfolk",
     "ability": "【你无视爪牙的所有能力。】每个夜晚*，🔵随机得知本局存在的一名角色，以及与他的包含他的随机一组关联。🔴选择一名玩家：他随机得知本局存在的一名角色。"
   },
@@ -113,6 +125,7 @@
     "id": "11_tarot",
     "image": "https://www.bloodstar.xyz/p/lihonghao15/Tarot/11_tarot.png",
     "name": "· 太 阳 ·",
+    "otherNight": 18,
     "team": "townsfolk",
     "ability": "【首个夜晚你将得知与你相邻的玩家角色是哪些类别。（镇民、外来者、爪牙、恶魔。）邪恶阵营会得知本局太阳在场。】每个夜晚*，🔵选择一名玩家，你得知他是否为镇民。🔴选择一名玩家，你得知他是否为外来者。",
     "firstNight": 5
@@ -121,6 +134,7 @@
     "id": "15_tarot",
     "image": "https://www.bloodstar.xyz/p/lihonghao15/Tarot/15_tarot.png",
     "name": "· 星 星 ·",
+    "otherNight": 4,
     "team": "townsfolk",
     "ability": "【首个夜晚得知月亮、太阳是否在场。你不会陷入厄运状态，当太阳或月亮的能力指定你为目标时，你死亡。】每个夜晚*，🔵选择一名玩家：移除他的厄运，并且他当晚不会陷入厄运。🔴选择一名玩家：他得知你的身份。",
     "firstNight": 6
@@ -129,6 +143,7 @@
     "id": "14_tarot",
     "image": "https://www.bloodstar.xyz/p/lihonghao15/Tarot/14_tarot.png",
     "name": "· 审 判 ·",
+    "otherNight": 3,
     "team": "townsfolk",
     "ability": "每个夜晚*，🔵选择一名玩家，他变更为正位，若他不是镇民，他陷入厄运。🔴选择一名玩家，他陷入厄运。"
   },
@@ -136,6 +151,7 @@
     "id": "13_tarot",
     "image": "https://www.bloodstar.xyz/p/lihonghao15/Tarot/13_tarot.png",
     "name": "· 魔 术 师 ·",
+    "otherNight": 13,
     "team": "townsfolk",
     "ability": "【首个夜晚魔术师无法发动能力。】每个夜晚*，🔵选择两名玩家：他们交换正逆位和所有状态。🔴选择除自己外的两名玩家：若当晚其中一人死亡，另外一人代替他死亡。若他们当晚都会死亡，则他们免疫死亡。"
   },
@@ -143,6 +159,7 @@
     "id": "17_tarot",
     "image": "https://www.bloodstar.xyz/p/lihonghao15/Tarot/17_tarot.png",
     "name": "· 正 义 ·",
+    "otherNight": 2,
     "team": "townsfolk",
     "ability": "【一旦你向书人表示怀疑自己的身份，你当天夜晚死亡。正义被处决后，当晚爪牙与恶魔陷入厄运。】每个夜晚*，🔵与你相邻的玩家当晚不会死亡。🔴与你相邻的玩家当晚不会陷入厄运。"
   },
@@ -150,6 +167,7 @@
     "id": "18_tarot",
     "image": "https://www.bloodstar.xyz/p/lihonghao15/Tarot/18_tarot.png",
     "name": "· 力 量 ·",
+    "otherNight": 15,
     "team": "townsfolk",
     "ability": "【首个夜晚你无法发动正位能力、不会死亡。】每个夜晚*，🔵选择一名玩家：若他非善良阵营，他死亡。🔴你下个夜晚无法以掷骰的方式变更正逆位。"
   },
@@ -157,6 +175,7 @@
     "id": "19_tarot",
     "image": "https://www.bloodstar.xyz/p/lihonghao15/Tarot/19_tarot.png",
     "name": "· 倒 吊 人 ·",
+    "otherNight": 17,
     "team": "townsfolk",
     "ability": "整局游戏各限一次，成功发动后失去对应能力。🔵选择一名玩家：直至下个白天阶段结束，你代替他死亡。若以此方式代替非善良阵营的玩家死亡，善良阵营获胜。🔴选择一名已死亡的玩家：他复活，你死亡。"
   },
@@ -164,6 +183,7 @@
     "id": "20_tarot",
     "image": "https://www.bloodstar.xyz/p/lihonghao15/Tarot/20_tarot.png",
     "name": "· 死 神 ·",
+    "otherNight": 16,
     "team": "townsfolk",
     "ability": "【你将得知每晚所有即将死亡的玩家号码。】整局游戏各限一次，成功发动后失去对应能力。🔵选择一名即将死亡的玩家：他今晚不会死亡。若他在剩余游戏时间内被你提名，他会在立即死亡。🔴选择一名即将死亡的玩家：他今晚不会死亡。"
   },
@@ -171,6 +191,7 @@
     "id": "9_tarot",
     "image": "https://www.bloodstar.xyz/p/lihonghao15/Tarot/9_tarot.png",
     "name": "· 恋 人 ·",
+    "otherNight": 14,
     "team": "townsfolk",
     "ability": "【首个夜晚选择一名玩家：你与他互通身份。若他是善良阵营，他存活时你不会死亡；若他是邪恶阵营玩家，你与在场的一名爪牙秘密组成第三方阵营。（爪牙会立刻得知，）①场上剩三人时只要你们其中一人存活，你们胜利。②当任意一方阵营宣布胜利时，若你们其中一人存活，则取代他们胜利。】每个夜晚*，🔵他当晚不会死亡。🔴你可以变更他为正位或逆位。"
     ,"firstNight": 1
@@ -180,6 +201,7 @@
     "id": "21_tarot",
     "image": "https://www.bloodstar.xyz/p/lihonghao15/Tarot/21_tarot.png",
     "name": "· 命 运 之 轮 ·",
+    "otherNight": 1,
     "team": "townsfolk",
     "ability": "每个夜晚*，🔵/🔴选择一名玩家，根据他当晚掷骰所得数字获得对应效果：①你获得一条有利于你阵营的信息。 ②他获得一条有利于他阵营的信息。 ③他陷入厄运。 ④随机一名爪牙陷入厄运。 ⑤随机一名玩家陷入厄运。 ⑥ 恶魔获得一条有利于邪恶阵营的信息。"
   },
@@ -212,6 +234,7 @@
     "ability": "当你提名恶魔或被恶魔提名时，邪恶阵营获胜。（提示：死亡的玩家依旧可以被提名。）"
   }
 ]
+
 
 
 
