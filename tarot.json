@@ -126,18 +126,18 @@
     "ability": "【首个夜晚你将得知与你相邻的玩家角色是哪些类别。（镇民、外来者、爪牙、恶魔。）邪恶阵营会得知本局太阳在场。】每个夜晚*，🔵选择一名玩家，你得知他是否为镇民。🔴选择一名玩家，你得知他是否为外来者。"
   },
   {
-    "id": "14_tarot",
-    "image": "https://www.bloodstar.xyz/p/lihonghao15/Tarot/14_tarot.png",
-    "name": "· 审 判 ·",
-    "team": "townsfolk",
-    "ability": "每个夜晚*，🔵选择一名玩家，他变更为正位，若他不是镇民，他陷入厄运。🔴选择一名玩家，他陷入厄运。"
-  },
-  {
     "id": "15_tarot",
     "image": "https://www.bloodstar.xyz/p/lihonghao15/Tarot/15_tarot.png",
     "name": "· 星 星 ·",
     "team": "townsfolk",
     "ability": "【首个夜晚得知月亮、太阳是否在场。你不会陷入厄运状态，当太阳或月亮的能力指定你为目标时，你死亡。】每个夜晚*，🔵选择一名玩家：移除他的厄运，并且他当晚不会陷入厄运。🔴选择一名玩家：他得知你的身份。"
+  },
+  {
+    "id": "14_tarot",
+    "image": "https://www.bloodstar.xyz/p/lihonghao15/Tarot/14_tarot.png",
+    "name": "· 审 判 ·",
+    "team": "townsfolk",
+    "ability": "每个夜晚*，🔵选择一名玩家，他变更为正位，若他不是镇民，他陷入厄运。🔴选择一名玩家，他陷入厄运。"
   },
   {
     "id": "13_tarot",
@@ -219,6 +219,7 @@
     "ability": "当你提名恶魔或被恶魔提名时，邪恶阵营获胜。（提示：死亡的玩家依旧可以被提名。）"
   }
 ]
+
 
 
 
